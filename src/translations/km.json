@@ -1,7 +1,7 @@
 {
     "appName": "openIMIS",
     "close": "Fermer",
-    "currency": "$",
+    "currency": "KMF",
     "rowsPerPage": "Lignes par page",
     "ofPages": "de",
     "selectAll": "Sélectionner tout",
@@ -3796,7 +3796,7 @@
     "tasksManagement.task.type.payroll_reconciliation": "",
     "tasksManagement.task.type.payroll_reject": "",
     "tasksManagement.task.type.payroll_delete": "",
-    "refreshFilterTooltip": "",
+    "refreshFilterTooltip": "Actualiser",
     "policy.policies.contributionPlanCode": "Code du régime de cotisation",
     "policy.policies.contributionPlanName": "Régime de cotisation",
     "policy.policySummaries.contributionPlan": "Régime de cotisation",
