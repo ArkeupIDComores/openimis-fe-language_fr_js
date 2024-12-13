@@ -4052,7 +4052,7 @@
     "core.exportConfigDialog.selectColumns": "",
     "core.exportConfigDialog.selectFormat": "",
       "medical.serviceTypePP.null": "None",
-   "medical.serviceTypePP.S": "Simple/atomic",
+   "medical.serviceTypePP.S": "Simple / Forfaitaire Simple",
    "medical.serviceTypePP.P": "Flat fee bundle",
    "medical.serviceTypePP.F": "Fee-for-service bundle",
    "medical.item.maximumAmount": "Maximum Amount per Claim",
