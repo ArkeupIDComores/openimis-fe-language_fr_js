@@ -4050,5 +4050,14 @@
     "core.exportConfigDialog.clearAllColsButton": "",
     "core.exportConfigDialog.title": "",
     "core.exportConfigDialog.selectColumns": "",
-    "core.exportConfigDialog.selectFormat": ""
+    "core.exportConfigDialog.selectFormat": "",
+      "medical.serviceTypePP.null": "None",
+   "medical.serviceTypePP.S": "Simple/atomic",
+   "medical.serviceTypePP.P": "Flat fee bundle",
+   "medical.serviceTypePP.F": "Fee-for-service bundle",
+   "medical.item.maximumAmount": "Maximum Amount per Claim",
+   "edit.items.ceiling":"Ceiling",
+   "medical.genderCategory": "Gender Categories *",
+   "medical.ageCategory": "Age Categories *",
+    "medical.service.packagetype": "Type"
 }
