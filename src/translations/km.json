@@ -4084,5 +4084,15 @@
     "medical.serviceTypePP.P": "Forfait à tarif fixe",
     "medical.serviceTypePP.F": "Forfait par acte\/service",
     "edit.items.ceiling": "",
-    "medical.service.packagetype": ""
+    "medical.service.packagetype": "",
+    "core.exportConfigDialog.selectFormat": "",
+    "medical.serviceTypePP.null": "None",
+    "medical.serviceTypePP.S": "Simple / Forfaitaire Simple",
+    "medical.serviceTypePP.P": "Flat fee bundle",
+    "medical.serviceTypePP.F": "Fee-for-service bundle",
+    "medical.item.maximumAmount": "Maximum Amount per Claim",
+    "edit.items.ceiling":"Ceiling",
+    "medical.genderCategory": "Gender Categories *",
+    "medical.ageCategory": "Age Categories *",
+    "medical.service.packagetype": "Type"
 }
